@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-With the use of Keras, randomly generated points are classified with a model
+With the use of Keras, randomly generated points were classified with a model which separates the points into two parties, obtaining an accuracy of 97%.
 <br />
 
 
